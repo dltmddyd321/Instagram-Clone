@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "973385658712",
+    "firebase_url": "https://today-proverb-default-rtdb.firebaseio.com",
+    "project_id": "today-proverb",
+    "storage_bucket": "today-proverb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973385658712:android:844d7d1d50b11ffa79b52d",
+        "android_client_info": {
+          "package_name": "com.example.clone_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXaIMC3Xc_bzMhfRSKhxur8BMgAwt3eTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973385658712:android:73cdfee7346a472579b52d",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXaIMC3Xc_bzMhfRSKhxur8BMgAwt3eTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973385658712:android:cc04a78f87007d4d79b52d",
+        "android_client_info": {
+          "package_name": "com.example.today_proverb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXaIMC3Xc_bzMhfRSKhxur8BMgAwt3eTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973385658712-resbqjnntcgkvsb5cu6803c5953q5u7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
